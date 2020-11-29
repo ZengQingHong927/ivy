@@ -16,7 +16,7 @@ function VideoHeader (props) {
                 <Fragment>
                         <div style={{display: 'flex', marginBottom: '16px'}}>
                                 <div>
-                                        <div style={{fontSize: '40px', fontWeight: 600}}>看點影片</div>
+                                        <div style={{fontSize: '40px', fontWeight: 600}}>看點影片，AWS certified developer</div>
                                 </div>
                                 <div className='level_menu' style={{position :'relative', alignSelf: 'center'}}>
                                         <div>
